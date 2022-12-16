@@ -19,6 +19,7 @@ Includes -
 - Press space to spawn
 - Press space after spawning to shoot
 - WASD for movement 
+- I forgot to implement a exit button so Alt + F4 to quit
 
 
 ## General Transform Component 
