@@ -14,6 +14,13 @@ Includes -
 - Game Settings Component + Game Settings Authoring Script 
 - Prefabs Collection Component
 
+
+## How to play: 
+- Press space to spawn
+- Press space after spawning to shoot
+- WASD for movement 
+
+
 ## General Transform Component 
 Since all entities spawning in the game will require a similar set of information for movements, the following properties where included in a General Transform Component (TransformComponent) : 
 - Speed
